@@ -3,14 +3,14 @@ title: <enter your title here>
 layout: default
 nav_order: 1
 ---
- ###### smallest heading 
+ ###### some relevant lists
  _a list containing the best diets ranked_
  1. vegeterian
  2. vegan
  3. peskatarian
  4. meat eater :(
  
- ## a really big heading
+ ## some random images from various sources
 **here is some bold text**
  
  ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)

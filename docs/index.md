@@ -10,6 +10,13 @@ nav_order: 1
  3. peskatarian
  4. meat eater :(
  
+ _a list of the best colours in no particular order_
+ - green
+ - blue
+ - dark green
+ - sea foam
+ - turquoise
+ 
  ## some random images from various sources
 **here is some bold text**
  

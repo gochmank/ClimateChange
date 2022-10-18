@@ -8,3 +8,7 @@ nav_order: 1
  
  ## a really big heading
 **here is some bold text**
+ 
+ ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+

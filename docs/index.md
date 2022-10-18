@@ -1,5 +1,5 @@
 ---
-title: <enter your title here>
+title: <cool table>
 layout: default
 nav_order: 1
 ---
@@ -17,7 +17,7 @@ nav_order: 1
  - sea foam
  - turquoise
  
- _check out this fun quiz that tells you of your environmental impacts_ 
+ _check out this fun quiz that tells you of your environmental impacts:_ 
  [ecological footprint quiz ](https://www.footprintcalculator.org/home/en)
  
  ## some random images from various sources

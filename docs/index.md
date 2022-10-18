@@ -1,5 +1,5 @@
 ---
-title: <cool table>
+title: cool table
 layout: default
 nav_order: 1
 ---

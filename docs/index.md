@@ -1,6 +1,6 @@
 ---
 title: cool table
-layout: default
+layout: random
 nav_order: 1
 ---
  #### some relevant lists

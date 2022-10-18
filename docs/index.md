@@ -4,7 +4,11 @@ layout: default
 nav_order: 1
 ---
  ###### smallest heading 
- _here is some itallicised text_
+ _a list containing the best diets rankes_
+ - vegeterian
+ - vegan
+ - peskatarian
+ - meat eater :(
  
  ## a really big heading
 **here is some bold text**

@@ -3,7 +3,7 @@ title: <enter your title here>
 layout: default
 nav_order: 1
 ---
- ###### some relevant lists
+ #### some relevant lists
  _a list containing the best diets ranked_
  1. vegeterian
  2. vegan

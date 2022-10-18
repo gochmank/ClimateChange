@@ -17,8 +17,7 @@ nav_order: 1
  - sea foam
  - turquoise
  
- _check out this fun quiz that tells you about how good you are for the environment!_
-[ecological footprint quiz] (https://www.footprintcalculator.org/home/en)
+ check out this fun quiz [ecological footprint quiz] (https://www.footprintcalculator.org/home/en)
  
  ## some random images from various sources
 **here is some bold text**
